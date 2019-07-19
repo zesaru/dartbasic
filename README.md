@@ -1,7 +1,6 @@
-# curso_dart
+# Course Dart
 
-A new Flutter project.
-
+Dart Basics
 ## Getting Started
 
 This project is a starting point for a Flutter application.
